@@ -1,0 +1,4 @@
+requests==2.26.0
+loguru==0.5.3
+Faker==10.0.0
+tqdm==4.62.3
