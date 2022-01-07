@@ -1,4 +1,4 @@
-# Video download from youtube/twiiter/facebook 
+# Video download from youtube/twitter/facebook 
 ## python3 main.py --r "存放消息地址的文件"  --out "输出路径(默认当前文件下result)"
 ## python3 main.py --u "消息地址"
 ### facebook采集需要cookie登录信息， 可以使用cookieeditor等工具获取cookie信息存放在config文件中。
